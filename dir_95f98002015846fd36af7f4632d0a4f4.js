@@ -11,6 +11,7 @@ var dir_95f98002015846fd36af7f4632d0a4f4 =
     [ "gRectangle.h", "gRectangle_8h.html", "gRectangle_8h" ],
     [ "gRoundedRectangle.h", "gRoundedRectangle_8h.html", "gRoundedRectangle_8h" ],
     [ "gSphere.h", "gSphere_8h.html", "gSphere_8h" ],
+    [ "gTerrain.h", "gTerrain_8h.html", "gTerrain_8h" ],
     [ "gTriangle.h", "gTriangle_8h.html", "gTriangle_8h" ],
     [ "gTube.h", "gTube_8h.html", "gTube_8h" ]
 ];

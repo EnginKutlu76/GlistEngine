@@ -1,5 +1,6 @@
 var NAVTREEINDEX18 =
 {
+"structgRenderer_1_1gSceneLightData.html#aefd726dae99d74498ec9445f8a1d9fc2":[1,0,145,2,4],
 "structgRenderer_1_1gSceneLightData.html#aff5d90ffd9243175c358929499fc281f":[1,0,145,2,3],
 "structgRenderer_1_1gSceneLights.html":[1,0,145,3],
 "structgRenderer_1_1gSceneLights.html#a77f19e641d9d5a063dde338bd1c07bae":[1,0,145,3,0],

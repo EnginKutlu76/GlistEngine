@@ -1,7 +1,7 @@
 var searchData=
 [
   ['save_0',['save',['../classgTexture.html#af47c47fd38a9cc806d1c7e492f110f84',1,'gTexture::save()'],['../classgHttpFile.html#a1a545d5cd7a0c1eecd0741fd871ed341',1,'gHttpFile::save()'],['../classgImage.html#a42fa7032f3805d68ee591ee446d64462',1,'gImage::save()']]],
-  ['saveasobj_1',['saveAsObj',['../classgTerrain.html#ae4a94fce5b09f484b1591a892518a13b',1,'gTerrain']]],
+  ['saveasobj_1',['saveAsObj',['../classgTerrain.html#a63c4feb47c3917b4eeb2e29f551e79dd',1,'gTerrain']]],
   ['saveimage_2',['saveImage',['../classgImage.html#a815510984b1d92b4d67f43889a29afbd',1,'gImage']]],
   ['savetexture_3',['saveTexture',['../classgTexture.html#a937dffd479d8bae4e2a7b35f8781ebd3',1,'gTexture']]],
   ['scale_4',['scale',['../classgCamera.html#a9a86bf3337727260db082eb4d1b96373',1,'gCamera::scale(float sx, float sy, float sz)'],['../classgCamera.html#ab7108058d0d0ff684f8d0d8200b800a9',1,'gCamera::scale(float s)'],['../classgModel.html#af93e539129e5928b93e0a24e301428d9',1,'gModel::scale(float sx, float sy, float sz)'],['../classgModel.html#ae2efeea63569831229c154d2f56d26db',1,'gModel::scale(float s)'],['../classgNode.html#a0eca9c6123108175cfe052c81414efcb',1,'gNode::scale(float sx, float sy, float sz)'],['../classgNode.html#aafe63aa2f6eb324f1748c2921f9ea4f4',1,'gNode::scale(float s)']]],

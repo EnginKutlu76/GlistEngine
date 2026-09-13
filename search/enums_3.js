@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['looptype_0',['LoopType',['../classgBaseSound.html#a9a2c864371ad1dc1af545577445f05ac',1,'gBaseSound']]]
+  ['deviceorientation_0',['DeviceOrientation',['../gWindowEvents_8h.html#a9d99888a5a1ae95a0049445bc4bfd14c',1,'gWindowEvents.h']]]
 ];
